@@ -377,6 +377,9 @@ static NSString * const kTwitterAPIKey = @"<your-twitter-api-key>";
         [self.ref authAnonymouslyWithCompletionBlock:[self loginBlockForProviderName:@"Anonymous"]];
     }
 }
+/**
+    new comments.
+**/
 
 
 @end
