@@ -378,7 +378,7 @@ static NSString * const kTwitterAPIKey = @"<your-twitter-api-key>";
     }
 }
 /**
-    new comments.
+    new comments by madan
 **/
 
 
